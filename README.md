@@ -7,9 +7,11 @@ about the application.
 
 ![Screenshot](./public/static/rec1-2021-04-15_13.48.52.gif)
 
-Technical Specifications. A React project where a simple counter application allows users to simply count the numbers in
-increasing or decreasing manner with locked min and max values.
+Technical Specifications:
+A React project where a simple counter application allows users to simply count the numbers in increasing or decreasing
+manner with locked min and max values.
 
 A responsive frontend designed using bootstrap.
 
-
+Author:
+Sundar Raj Gautam
